@@ -1,0 +1,15 @@
+#MainMenuBar
+File=File
+Edit=Edit
+Save=Save
+SaveAs=Save as..
+RunStepReset=Run/Step/Reset
+Run=Run
+Step=Step
+Reset=Reset
+Stop=Stop
+View=View
+Language=Language
+OpenFile=Open File..
+NewFile=New File
+Speed=Speed

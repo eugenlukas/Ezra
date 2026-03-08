@@ -1,0 +1,15 @@
+#MainMenuBar
+File=Datei
+Edit=Bearbeiten
+Save=Speichern
+SaveAs=Speichern unter..
+RunStepReset=Starten/Schritt/Zurücksetzen
+Run=Starten
+Step=Schritt
+Reset=Zurücksetzen
+Stop=Stop
+View=Ansicht
+Language=Sprache
+OpenFile=Datei öffnen..
+NewFile=Neue Datei
+Speed=Geschwindigkeit
